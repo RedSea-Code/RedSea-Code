@@ -1,5 +1,4 @@
 - 👋 Hi, I'm @RedSea-Code
 - 👀 I’m interested in: All things techy, especially in low level optimisation and embedded systems.
-- 🌱 I’m currently learning: Rust, C++, C, React, Python, Flask.
-- 📫 How to reach me: You will know.
+- 🌱 I’m currently learning: C, Python, Rust
 - 😄 Pronouns: He/Him.
